@@ -56,7 +56,9 @@ or
 
 Just download (Like the way it used to be)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+::
 
+    curl -s https://raw.githubusercontent.com/davidcary365/speedtest-cli/master/speedtest.py | python -
 ::
 
     wget -O speedtest-cli https://raw.githubusercontent.com/davidcary365/speedtest-cli/master/speedtest.py
